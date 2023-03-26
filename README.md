@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ANUSHRUTHIKAE/ANUSHRUTHIKAE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,14 +10,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact
+: ...
 -->
-![logo]
+<img src="https://raw.githubusercontent.com/ANUSHRUTHIKAE/ANUSHRUTHIKAE/main/BANNER-GITHUB.png" alt="logo" width="1000" height="500">
 
 <h1 align="center">Hi 👋 folks, I'm Anushruthika</h1>
 <h3 align="center">Step into my coding world, where possibilities are limitless and ideas come to life. Welcome to my GitHub profile!</h3>
 
-<img src="">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anushruthika-e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushruthika-e" height="30" width="40" /></a>
