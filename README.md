@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact
 : ...
 -->
-<img src="https://raw.githubusercontent.com/ANUSHRUTHIKAE/ANUSHRUTHIKAE/main/BANNER-GITHUB.png" alt="logo" width="1000" height="500">
+<img src="https://raw.githubusercontent.com/ANUSHRUTHIKAE/ANUSHRUTHIKAE/main/nn.jpeg" alt="logo" width="1000" height="500">
 
 <h1 align="center">Hi 👋 folks, I'm Anushruthika</h1>
 <h3 align="center">Step into my coding world, where possibilities are limitless and ideas come to life. Welcome to my GitHub profile!</h3>
