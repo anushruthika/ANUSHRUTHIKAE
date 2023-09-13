@@ -29,14 +29,3 @@
 ### Other
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ANUSHRUTHIKAE&theme=solarized-light&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ANUSHRUTHIKAE&theme=solarized-light&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANUSHRUTHIKAE&theme=solarized-light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ANUSHRUTHIKAE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ANUSHRUTHIKAE&icon=2&color=0)](https://visitcount.itsvg.in)
-
