@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/ANUSHRUTHIKAE/ANUSHRUTHIKAE/main/nn.jpeg" alt="logo" width="1000" height="500">
 
 <h1 align="center">Hey 👋 , I'm Anushruthika</h1>
-<h3 align="center">"🤖 Machine Learning & Deep Learning Enthusiast 📚 Sharing Beginner-Friendly Guides & Tutorials! 🚀 Exploring the world of AI one step at a time. Let's learn and grow together! 🌟 #ML #DL #AI #Educator"</h3>
+<h3 align="center">"🤖 Machine Learning & Deep Learning Enthusiast 📚 ! 🚀 Exploring the world of AI one step at a time. 🌟 #ML #DL #AI"</h3>
 
 
 ## 🌐 Socials:
